@@ -1,0 +1,157 @@
+@media (max-width:800px) {
+    #name_container {
+        width: 650px;
+    }
+    h1 {
+        font-size: 5rem;
+    }
+    h2 {
+        font-size:2.6rem;
+    }
+}
+
+@media (max-width:730px) {
+    #name_container {
+        width: 580px;
+    }
+    h1 {
+        font-size: 4.6rem;
+    }
+    h2 {
+        font-size:2.4rem;
+    }
+}
+
+
+@media (max-width:660px) {
+    #search_box {
+        width: 400px;
+    }
+    #name_container {
+        width: 500px;
+    }
+    h1 {
+        font-size: 4rem;
+    }
+    h2 {
+        font-size:2.2rem;
+    }
+}
+
+@media (max-width:600px) {
+    #name_container, #buttons {
+        width: 450px;
+    }
+    h1 {
+        font-size: 3.6rem;
+    }
+    h2 {
+        font-size:1.9rem;
+    }
+}
+
+@media (max-width:550px) {
+    #name_container, #buttons {
+        width: 400px;
+        height: 200px;
+
+    }
+    #search_box {
+        width: 380px;
+    }
+    h1 {
+        font-size: 3.4rem;
+    }
+    h2 {
+        font-size:1.7rem;
+    }
+}
+
+@media (max-width:500px) {
+    #name_container, #buttons {
+        width: 360px;
+        height: 180px;
+    }
+    #search_box {
+        width: 370px;
+    }
+    h1 {
+        font-size: 3.2rem;
+    }
+    h2 {
+        font-size:1.5rem;
+    }
+}
+
+@media (max-width:450px) {
+    #name_container, #buttons {
+        width: 320px;
+        height: 150px;
+    }
+    #search_box {
+        width: 340px;
+    }
+    .button div {
+        width: 140px;
+    }
+    h1 {
+        font-size: 3rem;
+    }
+    h2 {
+        font-size:1.2rem;
+    }
+}
+
+@media (max-width:400px) {
+    #name_container, #buttons {
+        width: 300px;
+        height: 120px;
+    }
+    #search_box {
+        width: 320px;
+    }
+    .button div {
+        width: 130px;
+    }
+
+    h1 {
+        font-size: 2.6rem;
+    }
+    h2 {
+        font-size:1.2rem;
+    }
+}
+@media (max-width:360px) {
+    #name_container, #buttons {
+        width: 260px;
+        height: 110px;
+    }
+    #search_box {
+        width: 280px;
+    }
+    .button div {
+        width: 100px;
+    }
+    .button {
+        font-size: 0.8rem;
+    }
+    .myjourney , #me{
+    width: 300px !important;
+    }
+    .myjourney{
+        font-size: 0.8rem;
+    }
+    #me .photo{
+        width: 250px !important;
+        height: 250px !important;
+    }
+    #me .accounts {
+        width: 280px !important;
+    }
+    h1 {
+        font-size: 2.3rem;
+    }
+    h2 {
+        font-size:1rem;
+    }
+}
